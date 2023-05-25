@@ -1,6 +1,6 @@
 {
   "name": "orbitdbconnector",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Database connection provider based on Typeorm with a bunch of tweak to be able to connect to a DB dynamically with or without entities plus perf gains.",
   "main": "core/orbit.js",
   "types": "core/orbit.d.ts",
