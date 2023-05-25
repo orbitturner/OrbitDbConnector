@@ -1,7 +1,7 @@
 # 💾 OrbitDbConnector 🚀
 
-[![Version](https://img.shields.io/npm/v/orbit-db-connector.svg)](https://www.npmjs.com/package/orbit-db-connector)
-[![License](https://img.shields.io/npm/l/orbit-db-connector.svg)](https://github.com/orbitturner/OrbitDbConnector/blob/main/LICENSE)
+[![Version](https://img.shields.io/npm/v/orbitdbconnector.svg)](https://www.npmjs.com/package/orbit-db-connector)
+[![License](https://img.shields.io/npm/l/orbitdbconnector.svg)](https://github.com/orbitturner/OrbitDbConnector/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/orbitturner/OrbitDbConnector.svg)](https://github.com/orbitturner/OrbitDbConnector/issues)
 [![GitHub stars](https://img.shields.io/github/stars/orbitturner/OrbitDbConnector.svg)](https://github.com/orbitturner/OrbitDbConnector/stargazers)
 
